@@ -1,0 +1,14 @@
+# Build folder
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Azure functions
+local.settings.json
+host.json
+
+# User specific files
+user-secrets.json
